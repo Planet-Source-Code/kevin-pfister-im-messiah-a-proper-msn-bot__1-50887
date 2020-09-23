@@ -1,0 +1,6 @@
+06/01/04 - Added more AI Stuff
+06/01/04 - Totally remake AI
+05/01/04 - Added AI(Bob)
+04/01/04 - Added Colouring
+03/01/04 - Updated Menu System
+03/01/04 - Added Commands

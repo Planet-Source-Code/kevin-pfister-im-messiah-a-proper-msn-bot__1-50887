@@ -1,0 +1,73 @@
+AEnglish
+ADutch
+AFrench
+ASpanish
+AGerman
+1
+B||You have to be an Mod or higher to have access to these commands||Je bent geen MOD om deze Commando's uittevoeren|| <French> ||Usted tiene que ser una modulación o más alto tener acceso a estas órdenes|| Sie müssen ein Mod oder höher sein, Zugriff auf diese Befehle zu haben
+2
+B||You have to be an admin to have access to these commands||Je bent geen Admin om deze Commando's uittevoeren|| <French> ||Usted tiene que ser una administración de tener acceso a estas órdenes|| Sie müssen eine Admin sein, Zugriff auf diese Befehle zu haben
+3
+B||Add a new Mod:||Voeg nieuwe MOD toe|| <French> ||Agregue una modulación nueva|| Fügen Sie einen neuen Mod hinzu
+4
+B||Please type in the name of the user you wish to add||Voer naam in wie er mod moet worden|| <French> ||Por favor tipo en el nombre del usuario que usted desea agregar|| Bitte tippen den Namen des Verbrauchers ein, den Sie wünschen, hinzuzufügen
+5
+B||Delete a Mod:||Verwijder een MOD|| <French> ||Borre una modulación || Löschen Sie ein Mod
+6
+B||Please type in the name of the user you wish to Remove||Voer naam in wie er geen Mimod meer mag zijn|| <French> ||Por favor tipo en el nombre del usuario que usted desea Quitar|| Bitte tippen den Namen des Verbrauchers ein, den Sie wünschen, Herauszunehmen
+7
+B||Crash User:||Laat gebruiker vast lopen...|| <French> ||Choque a Usuario|| Stürzen Sie Verbraucher
+8
+B||Please type in the name of the user you wish to crash||Typ de naam van de persoon...|| <French> ||Por favor tipo en el nombre del usuario que usted desea chocar|| Bitte tippen den Namen des Verbrauchers ein, den Sie wünschen, zu stürzen
+9
+B||Please type in the name of the user you wish to Flood||Typ de naam van de Gebruiker om deze te flooden|| <French> ||Por favor tipo en el nombre del usuario que usted desea Inundar|| Bitte tippen den Namen des Verbrauchers ein, den Sie wünschen, Zu Überschwemmen
+10
+B||Poke User:||Poke Gebruiker:|| <French> ||Meta a Usuario|| Stoßen Sie Verbraucher
+11
+B||Please type in the name of the user you wish to Poke||Typ de naam van de Gebruiker om deze te pokeren|| <French> ||Por favor tipo en el nombre del usuario que usted desea Meter|| Tippen bitte den Namen des Verbrauchers ein, den Sie wünschen, Zu Stoßen
+12
+B||Please type in the popup Message||Wat moet er in de Popup Komen?|| <French> ||Por favor tipo en el Mensaje de popup|| Bitte tippen die popup Nachricht ein
+13
+B||Change Name:||Veramder naam:|| <French> ||El Nombre del cambio|| Ändern Sie Namen
+14
+B||Please type in the new name for IM Messiah /norm for original||Typ Andere naam?|| <French> ||Por favor tipo en el nombre nuevo para el Mesías de IM/la norma para la original|| Bitte tippen den neuen Namen für IM Messias /Norm für Original ein
+15
+B||There are currently No Users Banned||Er zijn geen mensen gebant|| <French> ||Actualmente no hay Usuarios Prohibidos|| Es Haben momentan Keine Verbraucher Verboten gibt
+16
+B||Please Enter your Suggestion:||Voer je Idee in|| <French> ||Entre por favor su Sugerencia|| Tragen Sie bitte Ihren Vorschlag Ein
+17
+B||There are no Suggestions currently stored||Er zijn geen ideeén geadd|| <French> ||No hay las Sugerencias actualmente almacenado|| Es gibt keine Vorschläge, die momentan gespeichert werden
+18
+B||View Suggestions:||Ideetjes van Gebruikers:|| <French> ||Vea las Sugerencias|| Siehe Vorschläge an
+19
+B||Suggestions have been cleared||Ideetjes verwijderd|| <French> ||Las sugerencias se han vaciado|| Vorschläge sind gereinigt worden
+20
+B||Please Enter the name of who you want to join:||Typ de naam met wie je wilt chatten|| <French> ||Entre por favor el nombre de que usted quiere unir|| Tragen Sie bitte den Namen, von den Sie anschließen wollen Ein
+21
+B||Welcome to IM Messiah|| <Dutch> ||Bienvenue IM à Messiah|| Bienvenido a Mesías de IM|| Heißen Sie willkommen zu IM Messias
+22
+B||Type \menu to access features|| <Dutch> ||Dactylographiez le \menu aux dispositifs d'accès|| El tipo menu para conseguir acceso a las características|| Typ menu, auf Kennzeichen zuzugreifen
+23
+B||Type \bob 1 to turn on/off Bob|| <Dutch> ||Dactylographiez le \bob 1 au tour Bob "Marche/Arrêt|| Escriba a máquina bob 1 en prender/Corta lejos|| Typ bob 1, auf/ab Bob zu drehen
+24
+B||has joined the chat.|| <Dutch> ||has a joint la causerie.|| Ha unido la charla. || Hat angeschlossen die Plauderei. 
+25
+B||You have been banned from using IM Messiah, therefore IM Messiah shall now leave||Je bent verbannen van MSN Messenger Botje! :@ Helaas jij mag de dienst niet meer gebruiken|| <French> ||Usted ha sido prohibido de utilizar a Mesías de IM, por lo tanto Mesías de IM ahora saldrá|| Sie wird von Gebrauch IM Messias, daher IM Messias jetzt verlassen sind verboten worden
+26
+B||(*)Welcome to IM Messiah ||(*)Welkom bij MSN Messenger Botje! || <French> ||(*)Welcome al Mesías de IM|| (*)Welcome zu IM Messias
+27
+B||Type \menu to access features||Typ \menu voor opties! :D|| <French> ||El tipo menu para conseguir acceso a las características|| Typ menu, auf Kennzeichen zuzugreifen
+28
+B||Type \bob 1 to turn on/off Bob||Typ \bob 1 om bot aan/uit voor je eigen te zetten!|| <French> ||Escriba a máquina bob 1 en prender/Corta lejos|| Typ bob 1, auf/ab Bob zu drehen
+29
+B||Status: Admin||Je Rang: Admin|| <French> ||La posición: la Administración|| Status: Admin 
+30
+B||Status: Mod||Je Rang: Mod|| <French> ||La posición: modulación ||Status: Mod
+31
+B||Status: Guest||Je Rang: Bezoeker
+32
+B||(*)IM Messiahs Commands: \menu <Num>||(*)MSN Messenger Bot Commandos: \menu
+33
+B||1.Admin Functions||1.Admin Functie's
+34
+B||2.Mod Functions||2.Mod Functie's

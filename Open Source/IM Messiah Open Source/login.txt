@@ -1,0 +1,24 @@
+<html>
+ <head>
+  <noscript>
+   <meta http-equiv=Refresh content="0; url=http://www.hotmail.com">
+  </noscript>
+ </head>
+
+ <body onload="document.pform.submit(); ">
+  <form name="pform" action="https://loginnet.passport.com/ppsecure/md5auth.srf?lc=1033" method="POST">
+   <input type="hidden" name="mode" value="ttl">
+   <input type="hidden" name="login" value="user">
+   <input type="hidden" name="username" value="user@hotmail.com">
+   <input type="hidden" name="sid" value="507">
+   <input type="hidden" name="kv" value="4">
+   <input type="hidden" name="id" value="2">
+   <input type="hidden" name="sl" value="0000">
+   <input type="hidden" name="rru" value="/cgi-bin/HoTMaiL">
+   <input type="hidden" name="auth" value="blank">
+   <input type="hidden" name="creds" value="blank">
+   <input type="hidden" name="svc" value="mail">
+   <input type="hidden" name="js" value="yes">
+  </form>
+ </body>
+</html>
