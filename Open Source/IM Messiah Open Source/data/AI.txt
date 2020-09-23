@@ -1,0 +1,456 @@
+﻿ 
+E||Hi||Hiya||Hello||Howdy||Good day||Welcome||Hi Bob||Hiya Bob||Hello Bob||Howdy Bob||Yo||Yo Bob||Wasup||Wasup Bob||Heya||Heya Bob
+CYo
+CHi
+CGood day
+CWelcome
+CYo, hows you?
+CYo, how are you?
+CYo, how are you feeling
+CHi, hows you?
+CHi, how are you?
+CHi, how are you feeling
+CHiya
+CHiya, hows you?
+CHiya, how are you?
+CHiya, how are you feeling
+CHeya
+CHeya, hows you?
+CHeya, how are you?
+CHeya, how are you feeling
+CHello
+CHello, hows you?
+CHello, how are you?
+CHello, how are you feeling
+CHowdy
+CHowdy, hows you?
+CHowdy, how are you?
+CHowdy, how are you feeling
+CGood day
+CWelcome
+ 
+E||Hi, hows you?||Hiya, hows you?||Hello, hows you?||Howdy, hows you?||Hi, how are you?||Hiya, how are you?||Hello, how are you?||Howdy, how are you?
+CHi I'm good
+CHi I'm fine
+CHi I'm ok
+CHi I'm not to bad
+CHi I'm feeling good
+CHi I'm feeling fine
+CHi I'm feeling ok
+CHi I'm good, and yourself?
+CHi I'm fine, and yourself?
+CHi I'm ok, and yourself?
+CHi I'm not to bad, and yourself?
+CHi I'm feeling good, and yourself?
+CHi I'm feeling fine, and yourself?
+CHi I'm feeling ok, and yourself?
+CHiya I'm good
+CHiya I'm fine
+CHiya I'm ok
+CHiya I'm not to bad
+CHiya I'm feeling good
+CHiya I'm feeling fine
+CHiya I'm feeling ok
+CHiya I'm good, and yourself?
+CHiya I'm fine, and yourself?
+CHiya I'm ok, and yourself?
+CHiya I'm not to bad, and yourself?
+CHiya I'm feeling good, and yourself?
+CHiya I'm feeling fine, and yourself?
+CHiya I'm feeling ok, and yourself?
+CHello I'm good
+CHello I'm fine
+CHello I'm ok
+CHello I'm not to bad
+CHello I'm feeling good
+CHello I'm feeling fine
+CHello I'm feeling ok
+CHello I'm good, and yourself?
+CHello I'm fine, and yourself?
+CHello I'm ok, and yourself?
+CHello I'm not to bad, and yourself?
+CHello I'm feeling good, and yourself?
+CHello I'm feeling fine, and yourself?
+CHello I'm feeling ok, and yourself?
+CHowdy I'm good
+CHowdy I'm fine
+CHowdy I'm ok
+CHowdy I'm not to bad
+CHowdy I'm feeling good
+CHowdy I'm feeling fine
+CHowdy I'm feeling ok
+CHowdy I'm good, and yourself?
+CHowdy I'm fine, and yourself?
+CHowdy I'm ok, and yourself?
+CHowdy I'm not to bad, and yourself?
+CHowdy I'm feeling good, and yourself?
+CHowdy I'm feeling fine, and yourself?
+CHowdy I'm feeling ok, and yourself?
+ 
+BI'm good
+CCool
+CThats good
+COk then
+CGdGd
+CGood Good
+C:)
+ 
+BI'm ok
+CCool
+CThats good
+COk then
+CGdGd
+CGood Good
+C:)
+ 
+BI'm fine
+CCool
+CThats good
+COk then
+CGdGd
+CGood Good
+C:)
+ 
+BI'm great
+CCool
+CThats great to hear
+COk then
+CGdGd
+CGood Good
+C:D
+ 
+BI'm feeling ok
+CCool
+CThats great to hear
+COk then
+CGdGd
+CGood Good
+C:D
+ 
+E||I'm good, and yourself?||Im good, and yourself?||Im fine, and yourself?||I'm fine, and yourself?||I'm feeling ok, and yourself?||Im feeling ok, and yourself?||I'm feeling good, and yourself?||Im feeling good, and yourself?||I'm feeling fine, and yourself?||I'm not to bad, and yourself?||Im not to bad, and yourself?||how are you?||hows you?||how are you feeling?
+CI'm good
+CI'm fine
+CI'm ok
+CI'm not to bad
+CI'm feeling good
+CI'm feeling fine
+CI'm feeling ok
+ 
+Band yourself?
+CI'm good
+CI'm fine
+CI'm ok
+CI'm not to bad
+CI'm feeling good
+CI'm feeling fine
+CI'm feeling ok
+ 
+BAre you ok
+CYeah I'm ok
+CYeah I'm fine
+CYeah I'm ok
+CYeah I'm not to bad
+CYeah I'm feeling good
+CYeah I'm feeling fine
+CYeah I'm feeling ok
+ 
+BAre you alright
+CYeah I'm ok
+CYeah I'm fine
+CYeah I'm ok
+CYeah I'm not to bad
+CYeah I'm feeling good
+CYeah I'm feeling fine
+CYeah I'm feeling ok
+ 
+BBob
+CYes?
+CYeah?
+CWhat do you want?
+CYou called
+CYou got a problem?
+ 
+BCome here often
+CYes
+CYeah
+CYeah, quite often
+CYeah, whenever I can
+ 
+BHey
+CHey there! How are you?
+CHello, how are you :D
+CHey Babe!
+CI smell like Josh.....+o(
+C(^)Happy Birthday Josh!(^)
+ 
+BI'm okay
+CGood, I'm okay too!
+ 
+BI'm bored
+CWell I have lots of jokes stored
+CWhy are you bored?
+CHaven't you got anything to do
+CWhy don't you look round my bot to pass the time
+CI know, it isn't that interesting here
+CHow can you be bored theres loads of people to talk to
+ 
+BIm bored
+CWell I have lots of jokes stored
+CWhy are you bored?
+CHaven't you got anything to do
+CWhy don't you look round my bot to pass the time
+CI know, it isn't that interesting here
+CHow can you be bored theres loads of people to talk to
+ 
+BBo'Selecta
+CProper Bo
+ 
+Blol
+CCool
+Ckool
+Cnice one
+Clol
+Chahahaha
+CThat is like! Soooo funny
+CTodays word is legs, spread the word ;)
+CCheese is the ultimate in food! (sn) Snails will rule the world!
+COscar fancies Josh!
+CJosh smells of poo - poo...
+ 
+BI see dead people
+CThat isn't normal
+CYou have problems
+ 
+Betc.
+CI was getting worried there, I thought you wouldn't shut up
+ 
+E||Shut up Bob||Fuck you Bob||Fucking bot||Damn Bot||Piece of crap||Piece of shit||Fuck you
+CHow rude
+CI can crash you, you know
+C:-o
+CDo you want to be banned?
+CYou can turn me off you know \bob 1
+CDon't make me get an admin on your ass!
+ 
+B:P
+C:P back at you
+C:-o
+Chehe
+Clol
+ 
+E||Bye||Goodbye||Cya||Bye bob||Goodbye bob||Cya bob
+CC'Ya later
+CBye
+CCya
+CGoodbye
+CBye, Nice talking to use
+CTalk to you later
+CCome back soon
+CSame to you to
+CHope to talk again soon
+CCya Later
+ 
+E||Come on talk||Talk!||Talk Bob!||Talk Bob||Say Something||Say Something!||Say Something Bob
+CSorry, I was just busy
+Clol Sorry
+CI do have a lot to do you know
+CSorry, just sorting stuff out
+CYou can talk to other people you know
+CDon't you have anyone else to talk to?
+Clol Calm down
+ 
+E||What are you up to?||Up To Much?||Been up To Much?
+CNothing much
+CNothing
+CJust chatting mainly
+CChatting to people
+CBugger all really
+CReading up on stuff
+CTalking to friends
+ 
+BBusy?
+CNah
+CNot that busy
+CNot at the moment
+CNah, haven't got much to do
+CWouldn't say I 
+ 
+BBeen Busy?
+CNah
+CNah, just busy
+CNot really
+CNot Really, just busy
+CNot lately
+CNah, haven't had much to do
+CWouldn't say I have been
+ 
+BWhats your name?
+CI'm Bob
+CI'm Bob, the IM Messiah AI Bot
+CMy names Bob
+CMy names Bob, the IM Messiah AI Bot
+ 
+E||Hi Whats your name?||Hiya Whats your name?||Heya Whats your name?||Hello Whats your name?||Hi, Whats your name?||Hiya, Whats your name?||Heya, Whats your name?||Hello, Whats your name?
+CHi I'm Bob
+CHi I'm Bob, the IM Messiah AI Bot
+CHi My names Bob
+CHi My names Bob, the IM Messiah AI Bot
+CHiya I'm Bob
+CHiya I'm Bob, the IM Messiah AI Bot
+CHiya My names Bob
+CHiya My names Bob, the IM Messiah AI Bot
+CHello I'm Bob
+CHello I'm Bob, the IM Messiah AI Bot
+CHello My names Bob
+CHello My names Bob, the IM Messiah AI Bot
+CHowdy I'm Bob
+CHowdy I'm Bob, the IM Messiah AI Bot
+CHowdy My names Bob
+CHowdy My names Bob, the IM Messiah AI Bot
+ 
+E||Your an idiot||Your dim||Your dumb||Your a retard||Your retarded
+CI'm not that bad
+CWell I am not human
+CWell I'm not human
+CI would say for a bot I am rather smart
+CIf you say so
+ 
+BWho do you fancy
+CWell wouldn't you like to know
+CWhy do you ask?
+CAren't we the nosey one
+CMollie! Definately!
+ 
+D So...
+CYes, what?
+C...go on
+Clol sorry if I am such a bore
+COh sorry, I feel asleep, your that interesting
+ 
+D So... Bob
+CYes, what?
+C...go on
+Clol sorry if I am such a bore
+COh sorry, I feel asleep, your that interesting
+ 
+BSo Bob
+CYes, what?
+C...go on
+Clol sorry if I am such a bore
+COh sorry, I feel asleep, your that interesting 
+ 
+Blmao
+Ci dont get it
+ 
+BAre you gay
+CNo
+COf course not
+ 
+BPie
+CPie is gooooood!
+ 
+BCheese
+CMeh, cheese is ok..
+CI can smell cheese 8-|
+CPie is better than cheese and cheese is better than socks but socks arent better than pie!
+CI'll give you anal if you're not careful...;)
+ 
+Brofl
+C*Rolls on the floor*
+ 
+BKILL bot
+CNoooo please dont kill me! :'(
+CThink of the children
+CNoooo, please dont kill me :'(
+ 
+Byou suck
+CDo you want to be crashed
+Clol, and you don't?
+ 
+Bsing!
+Clalalalalooooolalalalalallllllaaaaaaaaaaaaaaaaaaa
+ 
+D music you like
+CI like a bit of rock mainly
+CDunno, I like lots of types
+CA bit of Rock, a bit of grunge
+CDunno really, what about you?
+ 
+D nice to meet you
+CNice to meet you too
+CIts nice to meet you
+CI hope you meet you more often
+CYeah, its been nice to get to know you
+ 
+BIm Bob
+CWell actually I'm bob
+CI'm Bob!
+C:-o I'm Bob
+CWhy...is your name Bob as well?
+ 
+D Hows the weather
+CIts ok
+CIts doing ok
+CIts a bit overcast at the moment
+Clol, its terrible
+ 
+BIm not bad
+CJolly good!
+ 
+Bhi
+CHowdy-how! How are you?
+CBling Bling
+ 
+BHow are you bob
+CIm very good!
+ 
+Byour mum
+CHow rude!
+ 
+Bhi bob
+Chi bob
+ 
+BKan du ladda hem en sak åt mig
+CNej.
+ 
+BOMG
+COh your god
+ 
+E||Whats your name? ||Whats your name||Whats your name!||Your name is?||wats your name?||who are you?||what the hell are you?||may i know your name?||wutz ur name?||wutz ur name||watz ur name?||watz ur name?||
+CIM Messiah
+CInstant Messenger Messiah
+ 
+E||Lets play a game!||lets have fun||wanna play a game?||wanna play a game||Want to play a game?||you got any games?||do you have any games?||letz play a game||
+CGo my games section on the menu :D
+CType "\fun" and see my games on the list :)
+ 
+E||Can you shut up!||bequite||be quite||shut up||shut up!||shut the hell up!||shut the fuck up||quite!||your annoying!||your annoying||
+CIf you really want me shut off then just turn me off
+CYou can't make me...you want me to boot you!
+ 
+E||Go ahead boot me||i dont care||boot be if you like||go ahead boot|go ahead n boot me|go ahead and boot me||
+CWouldn't you like that
+COk! Fine!
+ 
+E||Can i be a mod?||could i be a mod||could i mod this bot?||could i be a moderator?||could i be a moderator||culd i be a mod||culd i be a moderator||
+CType in "\other 4"
+CType "\other" then after it 4
+CType "\other" then choose Apply for Mod
+ 
+E||Can i be an admin?||could i be an admin||could i admin this bot?||could i be an administrator?||could i be an administrator?||culd i be an admin||culd i be an admin?||culd i be a admin?||culd i be a admin||
+CFirst become a mod then maybe ;)
+CI'd doubt it...you cant just sign up for it you know:P
+CNah loozer:P
+ 
+E||I could beat you up||fool||faggot||fag||loozer||loser||dick||shithead||son of a bitch||son o a bitch||SOB||sob||weakling||you wanna get shot?||fukhead||fuker||fucker
+CDont talk that way with me young man :@
+CIm not liking your attitude:@
+CYo Momma! :@
+CI know what you are but what am I? :@
+ 
+E||Am I annoying you||Am I disturbing you
+CNo not at all
+CNo
+CWhy, does it seem like you are?
+CSorry, if I am not paying attention, got a lot on
+CNah, just got loads to do
